@@ -9,3 +9,4 @@
 - Adoptium JDK - https://adoptium.net
 - Amazon Corretto - https://aws.amazon.com/corretto/
 - Azul JDK - https://www.azul.com
+- SDKMAN - https://sdkman.io
