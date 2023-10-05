@@ -1,4 +1,3 @@
-# java
 
 # Important Links
 - Online jshell - https://tryjshell.org
