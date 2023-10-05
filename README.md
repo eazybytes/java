@@ -10,3 +10,4 @@
 - Amazon Corretto - https://aws.amazon.com/corretto/
 - Azul JDK - https://www.azul.com
 - SDKMAN - https://sdkman.io
+- Java Keywords - https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html
