@@ -10,6 +10,7 @@
 - Azul JDK - https://www.azul.com
 - SDKMAN - https://sdkman.io
 - Java Keywords - https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html
+- Unicode list - https://en.wikipedia.org/wiki/List_of_Unicode_characters
 
 # Shortcuts
 - clean jshell - Control Key + L in windows, CMD + K in mac
