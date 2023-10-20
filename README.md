@@ -11,7 +11,9 @@
 - SDKMAN - https://sdkman.io
 - Java Keywords - https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html
 - Unicode list - https://en.wikipedia.org/wiki/List_of_Unicode_characters
+- IntelliJ IDEA installation - https://www.jetbrains.com/idea/
 - IntelliJ Debugging - https://www.jetbrains.com/help/idea/debugging-code.html
+
 
 
 # Shortcuts
