@@ -13,7 +13,8 @@
 - Unicode list - https://en.wikipedia.org/wiki/List_of_Unicode_characters
 - IntelliJ IDEA installation - https://www.jetbrains.com/idea/
 - IntelliJ Debugging - https://www.jetbrains.com/help/idea/debugging-code.html
-
+- Java Documentation - https://docs.oracle.com/en/java/
+- Java 21 Documentation - https://docs.oracle.com/en/java/javase/21/docs/api/index.html
 
 
 # Shortcuts
