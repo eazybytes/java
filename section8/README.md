@@ -357,7 +357,7 @@ When using nested loops, keep in mind that the inner loop runs to completion for
 - Be cautious of performance implications, especially with deeply nested loops and large datasets.
 ### Conclusion 🎉
 Nested for loops in Java are a powerful tool for iterating over multi-dimensional data structures and handling combinations of elements. Understanding how to use them effectively can greatly enhance your ability to work with complex data.
-## Break Statement
+## break Statement
 The `break` statement in Java is used to terminate the execution of a loop prematurely. When the `break` statement is encountered inside a loop, the loop is immediately terminated, and the program control resumes at the next statement following the loop.
 ### Example 💡
 ```java
