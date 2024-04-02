@@ -220,7 +220,6 @@ public class SwitchExpressionDemo {
 In Java, the `while` statement is a control flow statement that repeatedly executes a block of code as long as a specified condition is true. It is used when the number of iterations is not known beforehand and depends on the condition being evaluated.
 ### Syntax
 ```java
-```java
 while (condition) {
     // Code block to be executed
 }
@@ -253,7 +252,6 @@ public class WhileStatementDemo {
 ## Do-While Statement
 In Java, a do-while statement is used to execute a block of code repeatedly until a specified condition evaluates to false. Unlike the while loop, the do-while loop ensures that the block of code is executed at least once, even if the condition is initially false.
 ### Syntax
-```java
 ```java
 do {
     // code block to be executed
