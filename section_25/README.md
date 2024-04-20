@@ -109,10 +109,8 @@ The syntax for instance method reference is as follows:
 ClassName::instanceMethodName
 ```
 
-Where:
+where ClassName is the name of the class containing the instance method.instanceMethodName is the name of the instance method.
 
-ClassName is the name of the class containing the instance method.
-instanceMethodName is the name of the instance method.
 ### Example
 Consider a simple example of sorting strings in alphabetical order using instance method reference:
 
