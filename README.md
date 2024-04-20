@@ -29,6 +29,7 @@
 * Section 26: [JAVA 8] Streams API
 * Section 27: [JAVA 8] Optional to deal with nulls in Java
 * Section 28: MultiThreading in Java
+* Section 28: Other prominent new features from Java 22
   
 ## Important Links
 - Online jshell - https://tryjshell.org
