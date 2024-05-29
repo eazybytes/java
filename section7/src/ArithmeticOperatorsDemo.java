@@ -29,10 +29,10 @@ public class ArithmeticOperatorsDemo {
         byte num11 = -(-9);
 
         int num12 = 42;
-        num12 += 3.3; // num12 = (int) num12 + 3.3;
+        num12 += 3.3; // num12 = (int) (num12 + 3.3);
 
         int num13 = 42;
-        num13 -= 3.3; // num13 = (int) num13 - 3.3;
+        num13 -= 3.3; // num13 = (int) (num13 - 3.3);
 
         String str = "Hello";
         str += 9;
